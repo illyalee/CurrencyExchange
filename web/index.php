@@ -1,4 +1,7 @@
 <?php
-echo "<pre>";
 
-var_dump($_ENV);
+$var = 'Hello World!';
+
+$var = 'he';
+
+echo $var;
